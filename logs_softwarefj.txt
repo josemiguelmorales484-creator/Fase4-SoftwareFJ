@@ -1,0 +1,20 @@
+[2026-05-22 23:25:58] [INFO] Sistema Software FJ inicializado
+[2026-05-22 23:25:58] [INFO] Cliente creado: Jose Miguel (C001)
+[2026-05-22 23:25:58] [INFO] Cliente agregado: C001
+[2026-05-22 23:25:58] [ERROR] ClienteError: Email inválido
+--------------------------------------------------------------------------------
+[2026-05-22 23:25:58] [INFO] Servicio agregado: S001
+[2026-05-22 23:25:58] [INFO] Servicio agregado: S002
+[2026-05-22 23:25:58] [INFO] Servicio agregado: S003
+[2026-05-22 23:25:58] [INFO] Reserva creada: R001
+[2026-05-22 23:25:58] [INFO] Reserva R001 confirmada
+[2026-05-22 23:26:42] [INFO] Sistema Software FJ inicializado
+[2026-05-22 23:26:42] [INFO] Cliente creado: Jose Miguel (C001)
+[2026-05-22 23:26:42] [INFO] Cliente agregado: C001
+[2026-05-22 23:26:42] [ERROR] ClienteError: Email inválido
+--------------------------------------------------------------------------------
+[2026-05-22 23:26:42] [INFO] Servicio agregado: S001
+[2026-05-22 23:26:42] [INFO] Servicio agregado: S002
+[2026-05-22 23:26:42] [INFO] Servicio agregado: S003
+[2026-05-22 23:26:42] [INFO] Reserva creada: R001
+[2026-05-22 23:26:42] [INFO] Reserva R001 confirmada
